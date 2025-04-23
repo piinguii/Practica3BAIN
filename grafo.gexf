@@ -9,6 +9,52 @@
     </attributes>
     <nodes>
       <node id="Iron Man" label="Iron Man" />
+      <node id="Hercules" label="Hercules" />
+      <node id="Spider-Man (Peter Parker)" label="Spider-Man (Peter Parker)" />
+      <node id="Wolverine" label="Wolverine" />
+      <node id="Wonder Man" label="Wonder Man" />
+      <node id="Captain Marvel (Carol Danvers)" label="Captain Marvel (Carol Danvers)" />
+      <node id="Mysterio" label="Mysterio" />
+      <node id="Gambit" label="Gambit" />
+      <node id="Rogue" label="Rogue" />
+      <node id="Sabretooth" label="Sabretooth" />
+      <node id="Doctor Strange" label="Doctor Strange" />
+      <node id="Fantastic Four" label="Fantastic Four" />
+      <node id="Hulk" label="Hulk" />
+      <node id="X-23" label="X-23" />
+      <node id="Black Widow" label="Black Widow" />
+      <node id="Captain America" label="Captain America" />
+      <node id="Iron Man (Ultimate)" label="Iron Man (Ultimate)" />
+      <node id="Nick Fury (Ultimate)" label="Nick Fury (Ultimate)" />
+      <node id="Spider-Man (Miles Morales)" label="Spider-Man (Miles Morales)" />
+      <node id="Forge" label="Forge" />
+      <node id="Mystique" label="Mystique" />
+      <node id="Professor X" label="Professor X" />
+      <node id="Sub-Mariner" label="Sub-Mariner" />
+      <node id="X-Men" label="X-Men" />
+      <node id="Captain Britain" label="Captain Britain" />
+      <node id="Dazzler" label="Dazzler" />
+      <node id="Excalibur" label="Excalibur" />
+      <node id="Juggernaut" label="Juggernaut" />
+      <node id="Nocturne" label="Nocturne" />
+      <node id="Pete Wisdom" label="Pete Wisdom" />
+      <node id="Nightcrawler" label="Nightcrawler" />
+      <node id="Lionheart" label="Lionheart" />
+      <node id="Impossible Man" label="Impossible Man" />
+      <node id="New Mutants" label="New Mutants" />
+      <node id="Warlock (Technarchy)" label="Warlock (Technarchy)" />
+      <node id="Squadron Sinister" label="Squadron Sinister" />
+      <node id="Thunderbolts" label="Thunderbolts" />
+      <node id="Swordsman" label="Swordsman" />
+      <node id="Zemo" label="Zemo" />
+      <node id="Moonstone" label="Moonstone" />
+      <node id="Blizzard" label="Blizzard" />
+      <node id="Joystick" label="Joystick" />
+      <node id="Radioactive Man" label="Radioactive Man" />
+      <node id="Songbird" label="Songbird" />
+      <node id="Speed Demon" label="Speed Demon" />
+      <node id="Shocker (Herman Schultz)" label="Shocker (Herman Schultz)" />
+      <node id="Namor" label="Namor" />
       <node id="Beak" label="Beak" />
       <node id="Beast" label="Beast" />
       <node id="Cyclops" label="Cyclops" />
@@ -16,14 +62,27 @@
       <node id="Fantomex" label="Fantomex" />
       <node id="Magneto" label="Magneto" />
       <node id="New X-Men" label="New X-Men" />
-      <node id="X-Men" label="X-Men" />
+      <node id="Mercury" label="Mercury" />
+      <node id="Prodigy" label="Prodigy" />
+      <node id="Rockslide" label="Rockslide" />
+      <node id="Surge" label="Surge" />
+      <node id="Black Cat" label="Black Cat" />
+      <node id="Hobgoblin (Roderick Kingsley)" label="Hobgoblin (Roderick Kingsley)" />
+      <node id="Norman Osborn" label="Norman Osborn" />
+      <node id="Vulture (Adrian Toomes)" label="Vulture (Adrian Toomes)" />
+      <node id="Bedlam" label="Bedlam" />
+      <node id="Tempest" label="Tempest" />
+      <node id="Thor" label="Thor" />
+      <node id="Green Goblin (Norman Osborn)" label="Green Goblin (Norman Osborn)" />
+      <node id="Mary Jane Watson" label="Mary Jane Watson" />
+      <node id="May Parker" label="May Parker" />
+      <node id="Peter Parker" label="Peter Parker" />
+      <node id="Kitty Pryde" label="Kitty Pryde" />
       <node id="Iron Fist (Danny Rand)" label="Iron Fist (Danny Rand)" />
       <node id="Jessica Jones" label="Jessica Jones" />
       <node id="Luke Cage" label="Luke Cage" />
       <node id="Groot" label="Groot" />
       <node id="Rocket Raccoon" label="Rocket Raccoon" />
-      <node id="Hulk" label="Hulk" />
-      <node id="Spider-Man (Peter Parker)" label="Spider-Man (Peter Parker)" />
       <node id="She-Hulk (Jennifer Walters)" label="She-Hulk (Jennifer Walters)" />
       <node id="Thing" label="Thing" />
       <node id="Dum Dum Dugan" label="Dum Dum Dugan" />
@@ -31,14 +90,10 @@
       <node id="Hawkeye" label="Hawkeye" />
       <node id="Hellcat (Patsy Walker)" label="Hellcat (Patsy Walker)" />
       <node id="Doctor Octopus" label="Doctor Octopus" />
-      <node id="Namor" label="Namor" />
-      <node id="Vulture (Adrian Toomes)" label="Vulture (Adrian Toomes)" />
-      <node id="Captain America" label="Captain America" />
       <node id="S.H.I.E.L.D." label="S.H.I.E.L.D." />
       <node id="Ant-Man (Hank Pym)" label="Ant-Man (Hank Pym)" />
       <node id="Loki" label="Loki" />
       <node id="Wasp" label="Wasp" />
-      <node id="Fantastic Four" label="Fantastic Four" />
       <node id="Human Torch" label="Human Torch" />
       <node id="Invisible Woman" label="Invisible Woman" />
       <node id="Mr. Fantastic" label="Mr. Fantastic" />
@@ -47,7 +102,6 @@
       <node id="Skrulls" label="Skrulls" />
       <node id="The Watchers" label="The Watchers" />
       <node id="Absorbing Man" label="Absorbing Man" />
-      <node id="Thor" label="Thor" />
       <node id="Hela" label="Hela" />
       <node id="Malekith" label="Malekith" />
       <node id="Colossus (Ultimate)" label="Colossus (Ultimate)" />
@@ -59,8 +113,6 @@
       <node id="Avengers (Ultimate)" label="Avengers (Ultimate)" />
       <node id="Captain America (Ultimate)" label="Captain America (Ultimate)" />
       <node id="Hawkeye (Ultimate)" label="Hawkeye (Ultimate)" />
-      <node id="Iron Man (Ultimate)" label="Iron Man (Ultimate)" />
-      <node id="Nick Fury (Ultimate)" label="Nick Fury (Ultimate)" />
       <node id="Thor (Ultimate)" label="Thor (Ultimate)" />
       <node id="Ultimates" label="Ultimates" />
       <node id="Owl" label="Owl" />
@@ -72,16 +124,13 @@
       <node id="Odin" label="Odin" />
       <node id="Surtur" label="Surtur" />
       <node id="Black Bolt" label="Black Bolt" />
-      <node id="Captain Britain" label="Captain Britain" />
       <node id="Medusa" label="Medusa" />
       <node id="Uatu The Watcher" label="Uatu The Watcher" />
       <node id="Chamber" label="Chamber" />
       <node id="Marrow" label="Marrow" />
       <node id="Weapon X" label="Weapon X" />
       <node id="Agent Zero" label="Agent Zero" />
-      <node id="Wolverine" label="Wolverine" />
       <node id="Jubilee" label="Jubilee" />
-      <node id="Hercules" label="Hercules" />
       <node id="Madrox" label="Madrox" />
       <node id="Rictor" label="Rictor" />
       <node id="Shatterstar" label="Shatterstar" />
@@ -104,10 +153,13 @@
       <node id="Hydra" label="Hydra" />
       <node id="Micromax" label="Micromax" />
       <node id="Penance (Monet St. Croix)" label="Penance (Monet St. Croix)" />
-      <node id="Surge" label="Surge" />
-      <node id="Gambit" label="Gambit" />
+      <node id="Archangel" label="Archangel" />
+      <node id="Psylocke" label="Psylocke" />
+      <node id="Spiral (Rita Wayword)" label="Spiral (Rita Wayword)" />
+      <node id="Banshee" label="Banshee" />
+      <node id="Riptide" label="Riptide" />
+      <node id="Stryfe" label="Stryfe" />
       <node id="Mimic" label="Mimic" />
-      <node id="Rogue" label="Rogue" />
       <node id="Weapon Omega" label="Weapon Omega" />
       <node id="Agent Brand" label="Agent Brand" />
       <node id="Storm" label="Storm" />
@@ -128,9 +180,7 @@
       <node id="Apocalypse" label="Apocalypse" />
       <node id="X-Statix" label="X-Statix" />
       <node id="Dead Girl" label="Dead Girl" />
-      <node id="Doctor Strange" label="Doctor Strange" />
       <node id="Gwen Stacy" label="Gwen Stacy" />
-      <node id="Norman Osborn" label="Norman Osborn" />
       <node id="Union Jack (Joseph Chapman)" label="Union Jack (Joseph Chapman)" />
       <node id="Marvel Zombies" label="Marvel Zombies" />
     </nodes>
@@ -140,2067 +190,2942 @@
           <attvalue for="0" value="Zombies Assemble (2017) #2 (Horn Variant)" />
         </attvalues>
       </edge>
-      <edge source="Iron Man" target="Captain America" id="1">
+      <edge source="Iron Man" target="Hulk" id="1">
+        <attvalues>
+          <attvalue for="0" value="Marvel Team-Up (2004) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man" target="Bedlam" id="2">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man" target="Juggernaut" id="3">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man" target="Mysterio" id="4">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man" target="Spider-Man (Peter Parker)" id="5">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man" target="Tempest" id="6">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man" target="Thor" id="7">
+        <attvalues>
+          <attvalue for="0" value="Zombies Assemble (2017) #2 (Horn Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man" target="Captain America" id="8">
         <attvalues>
           <attvalue for="0" value="Tales of Suspense (1995) #1" />
         </attvalues>
       </edge>
-      <edge source="Iron Man" target="Nick Fury" id="2">
+      <edge source="Iron Man" target="Nick Fury" id="9">
         <attvalues>
           <attvalue for="0" value="Tales of Suspense (1995) #1" />
         </attvalues>
       </edge>
-      <edge source="Iron Man" target="S.H.I.E.L.D." id="3">
+      <edge source="Iron Man" target="S.H.I.E.L.D." id="10">
         <attvalues>
           <attvalue for="0" value="Tales of Suspense (1995) #1" />
         </attvalues>
       </edge>
-      <edge source="Iron Man" target="Wolverine" id="4">
+      <edge source="Iron Man" target="Wolverine" id="11">
         <attvalues>
           <attvalue for="0" value="Wolverine (2003) #53" />
         </attvalues>
       </edge>
-      <edge source="Iron Man" target="Marvel Zombies" id="5">
+      <edge source="Iron Man" target="Marvel Zombies" id="12">
         <attvalues>
           <attvalue for="0" value="Zombies Assemble (2017) #2 (Horn Variant)" />
         </attvalues>
       </edge>
-      <edge source="Iron Man" target="Thor" id="6">
+      <edge source="Hercules" target="Spider-Man (Peter Parker)" id="13">
         <attvalues>
-          <attvalue for="0" value="Zombies Assemble (2017) #2 (Horn Variant)" />
+          <attvalue for="0" value="Marvel Comics Presents (1988) #39" />
         </attvalues>
       </edge>
-      <edge source="Beak" target="Beast" id="7">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beak" target="Cyclops" id="8">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beak" target="Emma Frost" id="9">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beak" target="Fantomex" id="10">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beak" target="Magneto" id="11">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beak" target="New X-Men" id="12">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beak" target="X-Men" id="13">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beak" target="Beak" id="14">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Cyclops" id="15">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Emma Frost" id="16">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Fantomex" id="17">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Magneto" id="18">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="New X-Men" id="19">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="X-Men" id="20">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Beast" id="21">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Banshee (Theresa Rourke)" id="22">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Boomer" id="23">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Cable" id="24">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Cannonball" id="25">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Domino" id="26">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Rictor" id="27">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Shatterstar" id="28">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="Warpath" id="29">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Beast" target="X-Force" id="30">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="Emma Frost" id="31">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="Fantomex" id="32">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="Magneto" id="33">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="New X-Men" id="34">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="X-Men" id="35">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="Cyclops" id="36">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="Cable" id="37">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="Caliban" id="38">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #3" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="Jean Grey" id="39">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops" target="Apocalypse" id="40">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Emma Frost" target="Fantomex" id="41">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Emma Frost" target="Magneto" id="42">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Emma Frost" target="New X-Men" id="43">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Emma Frost" target="X-Men" id="44">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Emma Frost" target="Emma Frost" id="45">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Fantomex" target="Magneto" id="46">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Fantomex" target="New X-Men" id="47">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Fantomex" target="X-Men" id="48">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Fantomex" target="Fantomex" id="49">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Fantomex" target="Agent Zero" id="50">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Fantomex" target="Chamber" id="51">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Fantomex" target="Weapon X" id="52">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Fantomex" target="Wolverine" id="53">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Magneto" target="New X-Men" id="54">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Magneto" target="X-Men" id="55">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Magneto" target="Magneto" id="56">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="Magneto" target="Agent Brand" id="57">
-        <attvalues>
-          <attvalue for="0" value="X-Men Red (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Magneto" target="Cable" id="58">
-        <attvalues>
-          <attvalue for="0" value="X-Men Red (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Magneto" target="Storm" id="59">
-        <attvalues>
-          <attvalue for="0" value="X-Men Red (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Magneto" target="Sunspot" id="60">
-        <attvalues>
-          <attvalue for="0" value="X-Men Red (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Magneto" target="Vulcan (Gabriel Summers)" id="61">
-        <attvalues>
-          <attvalue for="0" value="X-Men Red (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="New X-Men" target="X-Men" id="62">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="New X-Men" target="New X-Men" id="63">
-        <attvalues>
-          <attvalue for="0" value="New X-Men (2001) #150" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="X-Men" id="64">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Layla Miller" id="65">
-        <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #25" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Madrox" id="66">
-        <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #25" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Cannonball" id="67">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Meltdown" id="68">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #110" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Warpath" id="69">
-        <attvalues>
-          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #122" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="X-Force" id="70">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Domino" id="71">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Banshee (Theresa Rourke)" id="72">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Boomer" id="73">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Cable" id="74">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Rictor" id="75">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Shatterstar" id="76">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Armor (Hisako Ichiki)" id="77">
-        <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Avalanche" id="78">
-        <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Bling!" id="79">
-        <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Firestar" id="80">
-        <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Hydra" id="81">
-        <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Micromax" id="82">
-        <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Penance (Monet St. Croix)" id="83">
-        <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Surge" id="84">
-        <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Gambit" id="85">
-        <attvalues>
-          <attvalue for="0" value="X-Men Legacy (2008) #264" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Mimic" id="86">
-        <attvalues>
-          <attvalue for="0" value="X-Men Legacy (2008) #264" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Rogue" id="87">
-        <attvalues>
-          <attvalue for="0" value="X-Men Legacy (2008) #264" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Weapon Omega" id="88">
-        <attvalues>
-          <attvalue for="0" value="X-Men Legacy (2008) #264" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Elixir" id="89">
-        <attvalues>
-          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #100" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Prodigy (David Alleyne)" id="90">
-        <attvalues>
-          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #100" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Speed" id="91">
-        <attvalues>
-          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #100" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Crule" id="92">
-        <attvalues>
-          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #122" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Thunderbird (John Proudstar)" id="93">
-        <attvalues>
-          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #122" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Dani Moonstar" id="94">
-        <attvalues>
-          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #99" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Mesmero" id="95">
-        <attvalues>
-          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #99" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Polaris" id="96">
-        <attvalues>
-          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #99" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Sentinel" id="97">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The 198 (2006) #2" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Jean Grey" id="98">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Ozymandias" id="99">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #2" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Caliban" id="100">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #3" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Apocalypse" id="101">
-        <attvalues>
-          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="X-Statix" id="102">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Dead Girl" id="103">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Doctor Strange" id="104">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Gwen Stacy" id="105">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Norman Osborn" id="106">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="X-Men" target="Union Jack (Joseph Chapman)" id="107">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Iron Fist (Danny Rand)" target="Jessica Jones" id="108">
-        <attvalues>
-          <attvalue for="0" value="Pulse (2004) #14" />
-        </attvalues>
-      </edge>
-      <edge source="Iron Fist (Danny Rand)" target="Luke Cage" id="109">
-        <attvalues>
-          <attvalue for="0" value="Pulse (2004) #14" />
-        </attvalues>
-      </edge>
-      <edge source="Jessica Jones" target="Luke Cage" id="110">
-        <attvalues>
-          <attvalue for="0" value="Pulse (2004) #14" />
-        </attvalues>
-      </edge>
-      <edge source="Groot" target="Rocket Raccoon" id="111">
-        <attvalues>
-          <attvalue for="0" value="Rocket Raccoon &amp; Groot: Tall Tails Infinity Comic (2023) #9" />
-        </attvalues>
-      </edge>
-      <edge source="Hulk" target="Spider-Man (Peter Parker)" id="112">
-        <attvalues>
-          <attvalue for="0" value="SPIDER-MAN &amp; HULK: TOILET PAPER INFINITY COMIC 1 (2023) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Hulk" target="Ant-Man (Hank Pym)" id="113">
-        <attvalues>
-          <attvalue for="0" value="Tales to Astonish (1959) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Hulk" target="Loki" id="114">
-        <attvalues>
-          <attvalue for="0" value="Tales to Astonish (1959) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Hulk" target="Wasp" id="115">
-        <attvalues>
-          <attvalue for="0" value="Tales to Astonish (1959) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Spider-Man (Peter Parker)" target="Doctor Octopus" id="116">
-        <attvalues>
-          <attvalue for="0" value="Spider-Man/Doctor Octopus: Out of Reach (2004) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Spider-Man (Peter Parker)" target="Namor" id="117">
-        <attvalues>
-          <attvalue for="0" value="Spider-Man: Get Kraven (2002) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Spider-Man (Peter Parker)" target="Vulture (Adrian Toomes)" id="118">
-        <attvalues>
-          <attvalue for="0" value="Spider-Man: Get Kraven (2002) #6" />
-        </attvalues>
-      </edge>
-      <edge source="She-Hulk (Jennifer Walters)" target="Thing" id="119">
-        <attvalues>
-          <attvalue for="0" value="Sensational She-Hulk (1989) #50" />
-        </attvalues>
-      </edge>
-      <edge source="Thing" target="Fantastic Four" id="120">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Thing" target="Human Torch" id="121">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Thing" target="Invisible Woman" id="122">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Thing" target="Mr. Fantastic" id="123">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Thing" target="Kree" id="124">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Thing" target="Paibok" id="125">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #3" />
-        </attvalues>
-      </edge>
-      <edge source="Thing" target="Skrulls" id="126">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Thing" target="The Watchers" id="127">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Dum Dum Dugan" target="Nick Fury" id="128">
-        <attvalues>
-          <attvalue for="0" value="Sgt. Fury (1963) #22" />
-        </attvalues>
-      </edge>
-      <edge source="Nick Fury" target="Captain America" id="129">
-        <attvalues>
-          <attvalue for="0" value="Tales of Suspense (1995) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Nick Fury" target="S.H.I.E.L.D." id="130">
-        <attvalues>
-          <attvalue for="0" value="Tales of Suspense (1995) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Hawkeye" target="Hellcat (Patsy Walker)" id="131">
-        <attvalues>
-          <attvalue for="0" value="Solo Avengers (1987) #9" />
-        </attvalues>
-      </edge>
-      <edge source="Hawkeye" target="Nick Fury (Ultimate)" id="132">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Comics Ultimates (2011) #9" />
-        </attvalues>
-      </edge>
-      <edge source="Hawkeye" target="Ultimates" id="133">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Comics Ultimates (2011) #9" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="S.H.I.E.L.D." id="134">
-        <attvalues>
-          <attvalue for="0" value="Tales of Suspense (1995) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Absorbing Man" id="135">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Avengers" id="136">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Captain Marvel (Mar-Vell)" id="137">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Gargoyle (Isaac Christians)" id="138">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Immortus" id="139">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Loki" id="140">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Odin" id="141">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Surtur" id="142">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Thor" id="143">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Black Bolt" id="144">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Captain Britain" id="145">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Medusa" id="146">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America" target="Uatu The Watcher" id="147">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Ant-Man (Hank Pym)" target="Loki" id="148">
-        <attvalues>
-          <attvalue for="0" value="Tales to Astonish (1959) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Ant-Man (Hank Pym)" target="Wasp" id="149">
-        <attvalues>
-          <attvalue for="0" value="Tales to Astonish (1959) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Wasp" id="150">
-        <attvalues>
-          <attvalue for="0" value="Tales to Astonish (1959) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Absorbing Man" id="151">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Avengers" id="152">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Captain Marvel (Mar-Vell)" id="153">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Gargoyle (Isaac Christians)" id="154">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Immortus" id="155">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Odin" id="156">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Surtur" id="157">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Thor" id="158">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Black Bolt" id="159">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Captain Britain" id="160">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Medusa" id="161">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Loki" target="Uatu The Watcher" id="162">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Fantastic Four" target="Human Torch" id="163">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Fantastic Four" target="Invisible Woman" id="164">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Fantastic Four" target="Mr. Fantastic" id="165">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Fantastic Four" target="Kree" id="166">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Fantastic Four" target="Paibok" id="167">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #3" />
-        </attvalues>
-      </edge>
-      <edge source="Fantastic Four" target="Skrulls" id="168">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Fantastic Four" target="The Watchers" id="169">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Human Torch" target="Invisible Woman" id="170">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Human Torch" target="Mr. Fantastic" id="171">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Invisible Woman" target="Mr. Fantastic" id="172">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Kree" target="Paibok" id="173">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #3" />
-        </attvalues>
-      </edge>
-      <edge source="Kree" target="Skrulls" id="174">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Kree" target="The Watchers" id="175">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Skrulls" target="The Watchers" id="176">
-        <attvalues>
-          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Absorbing Man" target="Thor" id="177">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Absorbing Man" target="Avengers" id="178">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Absorbing Man" target="Captain Marvel (Mar-Vell)" id="179">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Absorbing Man" target="Gargoyle (Isaac Christians)" id="180">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Absorbing Man" target="Immortus" id="181">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Absorbing Man" target="Odin" id="182">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Absorbing Man" target="Surtur" id="183">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Hela" id="184">
-        <attvalues>
-          <attvalue for="0" value="Thor (1998) #29" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Malekith" id="185">
-        <attvalues>
-          <attvalue for="0" value="Thor (1998) #29" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Avengers" id="186">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Captain Marvel (Mar-Vell)" id="187">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Gargoyle (Isaac Christians)" id="188">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Immortus" id="189">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Odin" id="190">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Surtur" id="191">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Black Bolt" id="192">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Captain Britain" id="193">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Medusa" id="194">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Uatu The Watcher" id="195">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Marvel Zombies" id="196">
-        <attvalues>
-          <attvalue for="0" value="Zombies Assemble (2017) #2 (Horn Variant)" />
-        </attvalues>
-      </edge>
-      <edge source="Thor" target="Thor" id="197">
-        <attvalues>
-          <attvalue for="0" value="Zombies Assemble (2017) #2 (Horn Variant)" />
-        </attvalues>
-      </edge>
-      <edge source="Hela" target="Malekith" id="198">
-        <attvalues>
-          <attvalue for="0" value="Thor (1998) #29" />
-        </attvalues>
-      </edge>
-      <edge source="Colossus (Ultimate)" target="Cyclops (Ultimate)" id="199">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Colossus (Ultimate)" target="Iceman (Ultimate)" id="200">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Colossus (Ultimate)" target="Quicksilver (Ultimate)" id="201">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Colossus (Ultimate)" target="Scarlet Witch (Ultimate)" id="202">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Colossus (Ultimate)" target="X-Men (Ultimate)" id="203">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops (Ultimate)" target="Iceman (Ultimate)" id="204">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops (Ultimate)" target="Quicksilver (Ultimate)" id="205">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops (Ultimate)" target="Scarlet Witch (Ultimate)" id="206">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Cyclops (Ultimate)" target="X-Men (Ultimate)" id="207">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Iceman (Ultimate)" target="Quicksilver (Ultimate)" id="208">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Iceman (Ultimate)" target="Scarlet Witch (Ultimate)" id="209">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Iceman (Ultimate)" target="X-Men (Ultimate)" id="210">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Quicksilver (Ultimate)" target="Scarlet Witch (Ultimate)" id="211">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Quicksilver (Ultimate)" target="X-Men (Ultimate)" id="212">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Scarlet Witch (Ultimate)" target="X-Men (Ultimate)" id="213">
-        <attvalues>
-          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers (Ultimate)" target="Captain America (Ultimate)" id="214">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers (Ultimate)" target="Hawkeye (Ultimate)" id="215">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers (Ultimate)" target="Iron Man (Ultimate)" id="216">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers (Ultimate)" target="Nick Fury (Ultimate)" id="217">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers (Ultimate)" target="Thor (Ultimate)" id="218">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers (Ultimate)" target="Ultimates" id="219">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America (Ultimate)" target="Hawkeye (Ultimate)" id="220">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America (Ultimate)" target="Iron Man (Ultimate)" id="221">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America (Ultimate)" target="Nick Fury (Ultimate)" id="222">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America (Ultimate)" target="Thor (Ultimate)" id="223">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Captain America (Ultimate)" target="Ultimates" id="224">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Hawkeye (Ultimate)" target="Iron Man (Ultimate)" id="225">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Hawkeye (Ultimate)" target="Nick Fury (Ultimate)" id="226">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Hawkeye (Ultimate)" target="Thor (Ultimate)" id="227">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Hawkeye (Ultimate)" target="Ultimates" id="228">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Iron Man (Ultimate)" target="Nick Fury (Ultimate)" id="229">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Iron Man (Ultimate)" target="Thor (Ultimate)" id="230">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Iron Man (Ultimate)" target="Ultimates" id="231">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Nick Fury (Ultimate)" target="Thor (Ultimate)" id="232">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Nick Fury (Ultimate)" target="Ultimates" id="233">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Comics Ultimates (2011) #9" />
-        </attvalues>
-      </edge>
-      <edge source="Thor (Ultimate)" target="Ultimates" id="234">
-        <attvalues>
-          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Owl" target="Silvermane" id="235">
-        <attvalues>
-          <attvalue for="0" value="Underworld (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers" target="Captain Marvel (Mar-Vell)" id="236">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers" target="Gargoyle (Isaac Christians)" id="237">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers" target="Immortus" id="238">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers" target="Odin" id="239">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Avengers" target="Surtur" id="240">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Marvel (Mar-Vell)" target="Gargoyle (Isaac Christians)" id="241">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Marvel (Mar-Vell)" target="Immortus" id="242">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Marvel (Mar-Vell)" target="Odin" id="243">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Marvel (Mar-Vell)" target="Surtur" id="244">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Marvel (Mar-Vell)" target="Black Bolt" id="245">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Marvel (Mar-Vell)" target="Captain Britain" id="246">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Marvel (Mar-Vell)" target="Medusa" id="247">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Marvel (Mar-Vell)" target="Uatu The Watcher" id="248">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Gargoyle (Isaac Christians)" target="Immortus" id="249">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Gargoyle (Isaac Christians)" target="Odin" id="250">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Gargoyle (Isaac Christians)" target="Surtur" id="251">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Gargoyle (Isaac Christians)" target="Black Bolt" id="252">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Gargoyle (Isaac Christians)" target="Captain Britain" id="253">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Gargoyle (Isaac Christians)" target="Medusa" id="254">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Gargoyle (Isaac Christians)" target="Uatu The Watcher" id="255">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Immortus" target="Odin" id="256">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Immortus" target="Surtur" id="257">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Odin" target="Surtur" id="258">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #4" />
-        </attvalues>
-      </edge>
-      <edge source="Black Bolt" target="Captain Britain" id="259">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Black Bolt" target="Medusa" id="260">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Black Bolt" target="Uatu The Watcher" id="261">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Britain" target="Medusa" id="262">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Captain Britain" target="Uatu The Watcher" id="263">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Medusa" target="Uatu The Watcher" id="264">
-        <attvalues>
-          <attvalue for="0" value="Universe X (2000) #5" />
-        </attvalues>
-      </edge>
-      <edge source="Chamber" target="Marrow" id="265">
-        <attvalues>
-          <attvalue for="0" value="Weapon X (2002) #20" />
-        </attvalues>
-      </edge>
-      <edge source="Chamber" target="Weapon X" id="266">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Chamber" target="Agent Zero" id="267">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Chamber" target="Wolverine" id="268">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Marrow" target="Weapon X" id="269">
-        <attvalues>
-          <attvalue for="0" value="Weapon X (2002) #20" />
-        </attvalues>
-      </edge>
-      <edge source="Weapon X" target="Agent Zero" id="270">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Weapon X" target="Wolverine" id="271">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Agent Zero" target="Wolverine" id="272">
-        <attvalues>
-          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Wolverine" target="Jubilee" id="273">
-        <attvalues>
-          <attvalue for="0" value="Wolverine and Jubilee (2011) #3" />
-        </attvalues>
-      </edge>
-      <edge source="Wolverine" target="Hercules" id="274">
+      <edge source="Hercules" target="Wolverine" id="14">
         <attvalues>
           <attvalue for="0" value="Wolverine/Hercules: Myths, Monsters &amp; Mutants (2011) #1" />
         </attvalues>
       </edge>
-      <edge source="Madrox" target="Rictor" id="275">
+      <edge source="Hercules" target="Wonder Man" id="15">
         <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #214" />
+          <attvalue for="0" value="Marvel Comics Presents (1988) #41" />
         </attvalues>
       </edge>
-      <edge source="Madrox" target="Shatterstar" id="276">
+      <edge source="Spider-Man (Peter Parker)" target="Wolverine" id="16">
         <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #214" />
+          <attvalue for="0" value="Marvel Team-Up (2004) #2" />
         </attvalues>
       </edge>
-      <edge source="Madrox" target="Wolfsbane" id="277">
+      <edge source="Spider-Man (Peter Parker)" target="Wonder Man" id="17">
         <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #214" />
+          <attvalue for="0" value="Marvel Comics Presents (1988) #39" />
         </attvalues>
       </edge>
-      <edge source="Madrox" target="X-Factor" id="278">
+      <edge source="Spider-Man (Peter Parker)" target="X-23" id="18">
         <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #214" />
+          <attvalue for="0" value="Marvel Team-Up (2004) #5" />
         </attvalues>
       </edge>
-      <edge source="Madrox" target="Layla Miller" id="279">
+      <edge source="Spider-Man (Peter Parker)" target="Black Cat" id="19">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker, the Spectacular Spider-Man (1976) #128" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Hobgoblin (Roderick Kingsley)" id="20">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker, the Spectacular Spider-Man (1976) #189" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Norman Osborn" id="21">
+        <attvalues>
+          <attvalue for="0" value="Spectacular Spider-Man (1988) #200" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Vulture (Adrian Toomes)" id="22">
+        <attvalues>
+          <attvalue for="0" value="Spider-Man: Get Kraven (2002) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Bedlam" id="23">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Juggernaut" id="24">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Mysterio" id="25">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Tempest" id="26">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Thor" id="27">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Green Goblin (Norman Osborn)" id="28">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Mary Jane Watson" id="29">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="May Parker" id="30">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Peter Parker" id="31">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Hulk" id="32">
+        <attvalues>
+          <attvalue for="0" value="SPIDER-MAN &amp; HULK: TOILET PAPER INFINITY COMIC 1 (2023) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Doctor Octopus" id="33">
+        <attvalues>
+          <attvalue for="0" value="Spider-Man/Doctor Octopus: Out of Reach (2004) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Spider-Man (Peter Parker)" target="Namor" id="34">
+        <attvalues>
+          <attvalue for="0" value="Spider-Man: Get Kraven (2002) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Wolverine" target="Wonder Man" id="35">
+        <attvalues>
+          <attvalue for="0" value="Marvel Comics Presents (1988) #41" />
+        </attvalues>
+      </edge>
+      <edge source="Wolverine" target="Swordsman" id="36">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Wolverine" target="Thunderbolts" id="37">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Wolverine" target="Agent Zero" id="38">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Wolverine" target="Chamber" id="39">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Wolverine" target="Fantomex" id="40">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Wolverine" target="Weapon X" id="41">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Wolverine" target="Jubilee" id="42">
+        <attvalues>
+          <attvalue for="0" value="Wolverine and Jubilee (2011) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Marvel (Carol Danvers)" target="Mysterio" id="43">
+        <attvalues>
+          <attvalue for="0" value="Marvel Meow Infinity Comic (2022) #14" />
+        </attvalues>
+      </edge>
+      <edge source="Mysterio" target="Bedlam" id="44">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Mysterio" target="Juggernaut" id="45">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Mysterio" target="Tempest" id="46">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Mysterio" target="Thor" id="47">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Rogue" id="48">
+        <attvalues>
+          <attvalue for="0" value="X-Men Legacy (2008) #264" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Sabretooth" id="49">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Archangel" id="50">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Beast" id="51">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Psylocke" id="52">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Spiral (Rita Wayword)" id="53">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="X-Men" id="54">
+        <attvalues>
+          <attvalue for="0" value="X-Men Legacy (2008) #264" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Banshee" id="55">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Boomer" id="56">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="X-Force" id="57">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Riptide" id="58">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Mimic" id="59">
+        <attvalues>
+          <attvalue for="0" value="X-Men Legacy (2008) #264" />
+        </attvalues>
+      </edge>
+      <edge source="Gambit" target="Weapon Omega" id="60">
+        <attvalues>
+          <attvalue for="0" value="X-Men Legacy (2008) #264" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Sabretooth" id="61">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Archangel" id="62">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Beast" id="63">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Psylocke" id="64">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Spiral (Rita Wayword)" id="65">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="X-Men" id="66">
+        <attvalues>
+          <attvalue for="0" value="X-Men Legacy (2008) #264" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Banshee" id="67">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Boomer" id="68">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="X-Force" id="69">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Riptide" id="70">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Mimic" id="71">
+        <attvalues>
+          <attvalue for="0" value="X-Men Legacy (2008) #264" />
+        </attvalues>
+      </edge>
+      <edge source="Rogue" target="Weapon Omega" id="72">
+        <attvalues>
+          <attvalue for="0" value="X-Men Legacy (2008) #264" />
+        </attvalues>
+      </edge>
+      <edge source="Sabretooth" target="Beast" id="73">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Sabretooth" target="Psylocke" id="74">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Sabretooth" target="Riptide" id="75">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Sabretooth" target="X-Men" id="76">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Sabretooth" target="Cyclops" id="77">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Sabretooth" target="Emma Frost" id="78">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Sabretooth" target="Jubilee" id="79">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Sabretooth" target="Stryfe" id="80">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Doctor Strange" target="Fantastic Four" id="81">
+        <attvalues>
+          <attvalue for="0" value="Marvel Team-Up (2004) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Doctor Strange" target="Dead Girl" id="82">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Doctor Strange" target="Gwen Stacy" id="83">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Doctor Strange" target="Norman Osborn" id="84">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Doctor Strange" target="Union Jack (Joseph Chapman)" id="85">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Doctor Strange" target="X-Men" id="86">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Doctor Strange" target="X-Statix" id="87">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Doctor Strange" target="Doctor Strange" id="88">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Fantastic Four" target="Human Torch" id="89">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Fantastic Four" target="Invisible Woman" id="90">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Fantastic Four" target="Mr. Fantastic" id="91">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Fantastic Four" target="Thing" id="92">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Fantastic Four" target="Kree" id="93">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Fantastic Four" target="Paibok" id="94">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Fantastic Four" target="Skrulls" id="95">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Fantastic Four" target="The Watchers" id="96">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Hulk" target="Ant-Man (Hank Pym)" id="97">
+        <attvalues>
+          <attvalue for="0" value="Tales to Astonish (1959) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Hulk" target="Loki" id="98">
+        <attvalues>
+          <attvalue for="0" value="Tales to Astonish (1959) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Hulk" target="Wasp" id="99">
+        <attvalues>
+          <attvalue for="0" value="Tales to Astonish (1959) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-23" target="Mercury" id="100">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="X-23" target="Prodigy" id="101">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="X-23" target="Rockslide" id="102">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="X-23" target="Surge" id="103">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="X-23" target="X-Men" id="104">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Black Widow" target="Captain America" id="105">
+        <attvalues>
+          <attvalue for="0" value="Marvel Team-Up (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Nick Fury" id="106">
+        <attvalues>
+          <attvalue for="0" value="Tales of Suspense (1995) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="S.H.I.E.L.D." id="107">
+        <attvalues>
+          <attvalue for="0" value="Tales of Suspense (1995) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Absorbing Man" id="108">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Avengers" id="109">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Captain Marvel (Mar-Vell)" id="110">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Gargoyle (Isaac Christians)" id="111">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Immortus" id="112">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Loki" id="113">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Odin" id="114">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Surtur" id="115">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Thor" id="116">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Black Bolt" id="117">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Captain Britain" id="118">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Medusa" id="119">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America" target="Uatu The Watcher" id="120">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man (Ultimate)" target="Nick Fury (Ultimate)" id="121">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man (Ultimate)" target="Spider-Man (Miles Morales)" id="122">
+        <attvalues>
+          <attvalue for="0" value="Miles Morales: Spider-Man Infinity Comic (2023) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man (Ultimate)" target="Avengers (Ultimate)" id="123">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man (Ultimate)" target="Captain America (Ultimate)" id="124">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man (Ultimate)" target="Hawkeye (Ultimate)" id="125">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man (Ultimate)" target="Thor (Ultimate)" id="126">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Man (Ultimate)" target="Ultimates" id="127">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Nick Fury (Ultimate)" target="Spider-Man (Miles Morales)" id="128">
+        <attvalues>
+          <attvalue for="0" value="Miles Morales: Spider-Man Infinity Comic (2023) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Nick Fury (Ultimate)" target="Avengers (Ultimate)" id="129">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Nick Fury (Ultimate)" target="Captain America (Ultimate)" id="130">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Nick Fury (Ultimate)" target="Hawkeye (Ultimate)" id="131">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Nick Fury (Ultimate)" target="Thor (Ultimate)" id="132">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Nick Fury (Ultimate)" target="Ultimates" id="133">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Comics Ultimates (2011) #9" />
+        </attvalues>
+      </edge>
+      <edge source="Nick Fury (Ultimate)" target="Hawkeye" id="134">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Comics Ultimates (2011) #9" />
+        </attvalues>
+      </edge>
+      <edge source="Forge" target="Mystique" id="135">
+        <attvalues>
+          <attvalue for="0" value="Mystique (2003) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Forge" target="Professor X" id="136">
+        <attvalues>
+          <attvalue for="0" value="Mystique (2003) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Mystique" target="Professor X" id="137">
+        <attvalues>
+          <attvalue for="0" value="Mystique (2003) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Sub-Mariner" target="X-Men" id="138">
+        <attvalues>
+          <attvalue for="0" value="Namor: The First Mutant (2010) #9" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Beak" id="139">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Beast" id="140">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Cyclops" id="141">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Emma Frost" id="142">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Fantomex" id="143">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Magneto" id="144">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="New X-Men" id="145">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="X-Men" id="146">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Mercury" id="147">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Prodigy" id="148">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Rockslide" id="149">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Surge" id="150">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Layla Miller" id="151">
         <attvalues>
           <attvalue for="0" value="X-Factor (2005) #25" />
         </attvalues>
       </edge>
-      <edge source="Rictor" target="Shatterstar" id="280">
+      <edge source="X-Men" target="Madrox" id="152">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #25" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Cannonball" id="153">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Rictor" target="Wolfsbane" id="281">
-        <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #214" />
-        </attvalues>
-      </edge>
-      <edge source="Rictor" target="X-Factor" id="282">
-        <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #214" />
-        </attvalues>
-      </edge>
-      <edge source="Rictor" target="Banshee (Theresa Rourke)" id="283">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Rictor" target="Boomer" id="284">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Rictor" target="Cable" id="285">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Rictor" target="Cannonball" id="286">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Rictor" target="Domino" id="287">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Rictor" target="Warpath" id="288">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Rictor" target="X-Force" id="289">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Shatterstar" target="Wolfsbane" id="290">
-        <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #214" />
-        </attvalues>
-      </edge>
-      <edge source="Shatterstar" target="X-Factor" id="291">
-        <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #214" />
-        </attvalues>
-      </edge>
-      <edge source="Shatterstar" target="Banshee (Theresa Rourke)" id="292">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Shatterstar" target="Boomer" id="293">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Shatterstar" target="Cable" id="294">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Shatterstar" target="Cannonball" id="295">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Shatterstar" target="Domino" id="296">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Shatterstar" target="Warpath" id="297">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Shatterstar" target="X-Force" id="298">
-        <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
-        </attvalues>
-      </edge>
-      <edge source="Wolfsbane" target="X-Factor" id="299">
-        <attvalues>
-          <attvalue for="0" value="X-Factor (2005) #214" />
-        </attvalues>
-      </edge>
-      <edge source="Cannonball" target="Meltdown" id="300">
+      <edge source="X-Men" target="Meltdown" id="154">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #110" />
         </attvalues>
       </edge>
-      <edge source="Cannonball" target="Warpath" id="301">
+      <edge source="X-Men" target="Warpath" id="155">
+        <attvalues>
+          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #122" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="X-Force" id="156">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Domino" id="157">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Cannonball" target="X-Force" id="302">
+      <edge source="X-Men" target="Banshee (Theresa Rourke)" id="158">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Cannonball" target="Domino" id="303">
+      <edge source="X-Men" target="Boomer" id="159">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Cable" id="160">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Rictor" id="161">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Cannonball" target="Boom Boom" id="304">
+      <edge source="X-Men" target="Shatterstar" id="162">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Armor (Hisako Ichiki)" id="163">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Avalanche" id="164">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Bling!" id="165">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Firestar" id="166">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Hydra" id="167">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Micromax" id="168">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Penance (Monet St. Croix)" id="169">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Archangel" id="170">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Psylocke" id="171">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Spiral (Rita Wayword)" id="172">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Banshee" id="173">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Riptide" id="174">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Jubilee" id="175">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Stryfe" id="176">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Mimic" id="177">
+        <attvalues>
+          <attvalue for="0" value="X-Men Legacy (2008) #264" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Weapon Omega" id="178">
+        <attvalues>
+          <attvalue for="0" value="X-Men Legacy (2008) #264" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Elixir" id="179">
+        <attvalues>
+          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #100" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Prodigy (David Alleyne)" id="180">
+        <attvalues>
+          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #100" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Speed" id="181">
+        <attvalues>
+          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #100" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Crule" id="182">
+        <attvalues>
+          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #122" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Thunderbird (John Proudstar)" id="183">
+        <attvalues>
+          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #122" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Dani Moonstar" id="184">
+        <attvalues>
+          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #99" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Mesmero" id="185">
+        <attvalues>
+          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #99" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Polaris" id="186">
+        <attvalues>
+          <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #99" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Sentinel" id="187">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The 198 (2006) #2" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Jean Grey" id="188">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Ozymandias" id="189">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #2" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Caliban" id="190">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #3" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Apocalypse" id="191">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="X-Statix" id="192">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Dead Girl" id="193">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Gwen Stacy" id="194">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Norman Osborn" id="195">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="X-Men" target="Union Jack (Joseph Chapman)" id="196">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Dazzler" id="197">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Excalibur" id="198">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Juggernaut" id="199">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Nocturne" id="200">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Pete Wisdom" id="201">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Black Bolt" id="202">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Captain Marvel (Mar-Vell)" id="203">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Gargoyle (Isaac Christians)" id="204">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Loki" id="205">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Medusa" id="206">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Thor" id="207">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Britain" target="Uatu The Watcher" id="208">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Dazzler" target="Excalibur" id="209">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Dazzler" target="Juggernaut" id="210">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Dazzler" target="Nocturne" id="211">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Dazzler" target="Pete Wisdom" id="212">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Excalibur" target="Juggernaut" id="213">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Excalibur" target="Nocturne" id="214">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Excalibur" target="Pete Wisdom" id="215">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Excalibur" target="Nightcrawler" id="216">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Excalibur" target="Lionheart" id="217">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Juggernaut" target="Nocturne" id="218">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Juggernaut" target="Pete Wisdom" id="219">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Juggernaut" target="Nightcrawler" id="220">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Juggernaut" target="Bedlam" id="221">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Juggernaut" target="Tempest" id="222">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Juggernaut" target="Thor" id="223">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Nocturne" target="Pete Wisdom" id="224">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Nocturne" target="Nightcrawler" id="225">
+        <attvalues>
+          <attvalue for="0" value="New Excalibur (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Pete Wisdom" target="Kitty Pryde" id="226">
+        <attvalues>
+          <attvalue for="0" value="Pryde and Wisdom (1996) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Impossible Man" target="New Mutants" id="227">
+        <attvalues>
+          <attvalue for="0" value="New Mutants Annual (1984) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Impossible Man" target="Warlock (Technarchy)" id="228">
+        <attvalues>
+          <attvalue for="0" value="New Mutants Annual (1984) #3" />
+        </attvalues>
+      </edge>
+      <edge source="New Mutants" target="Warlock (Technarchy)" id="229">
+        <attvalues>
+          <attvalue for="0" value="New Mutants Annual (1984) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Squadron Sinister" target="Thunderbolts" id="230">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #16" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Swordsman" id="231">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Zemo" id="232">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #17" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Moonstone" id="233">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #18" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Blizzard" id="234">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Joystick" id="235">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Radioactive Man" id="236">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Songbird" id="237">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Speed Demon" id="238">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Shocker (Herman Schultz)" id="239">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #8" />
+        </attvalues>
+      </edge>
+      <edge source="Thunderbolts" target="Namor" id="240">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #9" />
+        </attvalues>
+      </edge>
+      <edge source="Swordsman" target="Zemo" id="241">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #17" />
+        </attvalues>
+      </edge>
+      <edge source="Swordsman" target="Blizzard" id="242">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Swordsman" target="Joystick" id="243">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Swordsman" target="Radioactive Man" id="244">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Swordsman" target="Songbird" id="245">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Swordsman" target="Speed Demon" id="246">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Blizzard" target="Joystick" id="247">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Blizzard" target="Radioactive Man" id="248">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Blizzard" target="Songbird" id="249">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Blizzard" target="Speed Demon" id="250">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Joystick" target="Radioactive Man" id="251">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Joystick" target="Songbird" id="252">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Joystick" target="Speed Demon" id="253">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Radioactive Man" target="Songbird" id="254">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Radioactive Man" target="Speed Demon" id="255">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Songbird" target="Speed Demon" id="256">
+        <attvalues>
+          <attvalue for="0" value="New Thunderbolts (2004) #6" />
+        </attvalues>
+      </edge>
+      <edge source="Beak" target="Beast" id="257">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beak" target="Cyclops" id="258">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beak" target="Emma Frost" id="259">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beak" target="Fantomex" id="260">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beak" target="Magneto" id="261">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beak" target="New X-Men" id="262">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beak" target="Beak" id="263">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Cyclops" id="264">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Emma Frost" id="265">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Fantomex" id="266">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Magneto" id="267">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="New X-Men" id="268">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Beast" id="269">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Banshee (Theresa Rourke)" id="270">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Boomer" id="271">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Cable" id="272">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Cannonball" id="273">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Domino" id="274">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Rictor" id="275">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Shatterstar" id="276">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Warpath" id="277">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="X-Force" id="278">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Archangel" id="279">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #31" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Psylocke" id="280">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Spiral (Rita Wayword)" id="281">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #31" />
+        </attvalues>
+      </edge>
+      <edge source="Beast" target="Riptide" id="282">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #34" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Emma Frost" id="283">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Fantomex" id="284">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Magneto" id="285">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="New X-Men" id="286">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Cyclops" id="287">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Jubilee" id="288">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Stryfe" id="289">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Cable" id="290">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Caliban" id="291">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Jean Grey" id="292">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Apocalypse" id="293">
+        <attvalues>
+          <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Emma Frost" target="Fantomex" id="294">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Emma Frost" target="Magneto" id="295">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Emma Frost" target="New X-Men" id="296">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Emma Frost" target="Emma Frost" id="297">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Emma Frost" target="Jubilee" id="298">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Emma Frost" target="Stryfe" id="299">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Fantomex" target="Magneto" id="300">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Fantomex" target="New X-Men" id="301">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Fantomex" target="Fantomex" id="302">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Fantomex" target="Agent Zero" id="303">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Fantomex" target="Chamber" id="304">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Fantomex" target="Weapon X" id="305">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Magneto" target="New X-Men" id="306">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Magneto" target="Magneto" id="307">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Magneto" target="Agent Brand" id="308">
+        <attvalues>
+          <attvalue for="0" value="X-Men Red (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Magneto" target="Cable" id="309">
+        <attvalues>
+          <attvalue for="0" value="X-Men Red (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Magneto" target="Storm" id="310">
+        <attvalues>
+          <attvalue for="0" value="X-Men Red (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Magneto" target="Sunspot" id="311">
+        <attvalues>
+          <attvalue for="0" value="X-Men Red (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Magneto" target="Vulcan (Gabriel Summers)" id="312">
+        <attvalues>
+          <attvalue for="0" value="X-Men Red (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="New X-Men" target="New X-Men" id="313">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2001) #150" />
+        </attvalues>
+      </edge>
+      <edge source="Mercury" target="Prodigy" id="314">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Mercury" target="Rockslide" id="315">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Mercury" target="Surge" id="316">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Prodigy" target="Rockslide" id="317">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Prodigy" target="Surge" id="318">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Rockslide" target="Surge" id="319">
+        <attvalues>
+          <attvalue for="0" value="New X-Men (2004) #44 (Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Surge" target="Armor (Hisako Ichiki)" id="320">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Surge" target="Avalanche" id="321">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Surge" target="Bling!" id="322">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Surge" target="Firestar" id="323">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Surge" target="Hydra" id="324">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Surge" target="Micromax" id="325">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Surge" target="Penance (Monet St. Croix)" id="326">
+        <attvalues>
+          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Hobgoblin (Roderick Kingsley)" target="Norman Osborn" id="327">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker, the Spectacular Spider-Man (1976) #189" />
+        </attvalues>
+      </edge>
+      <edge source="Hobgoblin (Roderick Kingsley)" target="Vulture (Adrian Toomes)" id="328">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker, the Spectacular Spider-Man (1976) #189" />
+        </attvalues>
+      </edge>
+      <edge source="Norman Osborn" target="Vulture (Adrian Toomes)" id="329">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker, the Spectacular Spider-Man (1976) #189" />
+        </attvalues>
+      </edge>
+      <edge source="Norman Osborn" target="Dead Girl" id="330">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Norman Osborn" target="Gwen Stacy" id="331">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Norman Osborn" target="Union Jack (Joseph Chapman)" id="332">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Norman Osborn" target="X-Statix" id="333">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Norman Osborn" target="Norman Osborn" id="334">
+        <attvalues>
+          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Bedlam" target="Tempest" id="335">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Bedlam" target="Thor" id="336">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Tempest" target="Thor" id="337">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #11" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Absorbing Man" id="338">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Hela" id="339">
+        <attvalues>
+          <attvalue for="0" value="Thor (1998) #29" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Malekith" id="340">
+        <attvalues>
+          <attvalue for="0" value="Thor (1998) #29" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Avengers" id="341">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Captain Marvel (Mar-Vell)" id="342">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Gargoyle (Isaac Christians)" id="343">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Immortus" id="344">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Loki" id="345">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Odin" id="346">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Surtur" id="347">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Black Bolt" id="348">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Medusa" id="349">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Uatu The Watcher" id="350">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Marvel Zombies" id="351">
+        <attvalues>
+          <attvalue for="0" value="Zombies Assemble (2017) #2 (Horn Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Thor" target="Thor" id="352">
+        <attvalues>
+          <attvalue for="0" value="Zombies Assemble (2017) #2 (Horn Variant)" />
+        </attvalues>
+      </edge>
+      <edge source="Green Goblin (Norman Osborn)" target="Mary Jane Watson" id="353">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="Green Goblin (Norman Osborn)" target="May Parker" id="354">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="Green Goblin (Norman Osborn)" target="Peter Parker" id="355">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="Mary Jane Watson" target="May Parker" id="356">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="Mary Jane Watson" target="Peter Parker" id="357">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="May Parker" target="Peter Parker" id="358">
+        <attvalues>
+          <attvalue for="0" value="Peter Parker: Spider-Man (1999) #44" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Fist (Danny Rand)" target="Jessica Jones" id="359">
+        <attvalues>
+          <attvalue for="0" value="Pulse (2004) #14" />
+        </attvalues>
+      </edge>
+      <edge source="Iron Fist (Danny Rand)" target="Luke Cage" id="360">
+        <attvalues>
+          <attvalue for="0" value="Pulse (2004) #14" />
+        </attvalues>
+      </edge>
+      <edge source="Jessica Jones" target="Luke Cage" id="361">
+        <attvalues>
+          <attvalue for="0" value="Pulse (2004) #14" />
+        </attvalues>
+      </edge>
+      <edge source="Groot" target="Rocket Raccoon" id="362">
+        <attvalues>
+          <attvalue for="0" value="Rocket Raccoon &amp; Groot: Tall Tails Infinity Comic (2023) #9" />
+        </attvalues>
+      </edge>
+      <edge source="She-Hulk (Jennifer Walters)" target="Thing" id="363">
+        <attvalues>
+          <attvalue for="0" value="Sensational She-Hulk (1989) #50" />
+        </attvalues>
+      </edge>
+      <edge source="Thing" target="Human Torch" id="364">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Thing" target="Invisible Woman" id="365">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Thing" target="Mr. Fantastic" id="366">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Thing" target="Kree" id="367">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Thing" target="Paibok" id="368">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Thing" target="Skrulls" id="369">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Thing" target="The Watchers" id="370">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Dum Dum Dugan" target="Nick Fury" id="371">
+        <attvalues>
+          <attvalue for="0" value="Sgt. Fury (1963) #22" />
+        </attvalues>
+      </edge>
+      <edge source="Nick Fury" target="S.H.I.E.L.D." id="372">
+        <attvalues>
+          <attvalue for="0" value="Tales of Suspense (1995) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Hawkeye" target="Hellcat (Patsy Walker)" id="373">
+        <attvalues>
+          <attvalue for="0" value="Solo Avengers (1987) #9" />
+        </attvalues>
+      </edge>
+      <edge source="Hawkeye" target="Ultimates" id="374">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Comics Ultimates (2011) #9" />
+        </attvalues>
+      </edge>
+      <edge source="Ant-Man (Hank Pym)" target="Loki" id="375">
+        <attvalues>
+          <attvalue for="0" value="Tales to Astonish (1959) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Ant-Man (Hank Pym)" target="Wasp" id="376">
+        <attvalues>
+          <attvalue for="0" value="Tales to Astonish (1959) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Wasp" id="377">
+        <attvalues>
+          <attvalue for="0" value="Tales to Astonish (1959) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Absorbing Man" id="378">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Avengers" id="379">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Captain Marvel (Mar-Vell)" id="380">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Gargoyle (Isaac Christians)" id="381">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Immortus" id="382">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Odin" id="383">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Surtur" id="384">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Black Bolt" id="385">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Medusa" id="386">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Loki" target="Uatu The Watcher" id="387">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Human Torch" target="Invisible Woman" id="388">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Human Torch" target="Mr. Fantastic" id="389">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Invisible Woman" target="Mr. Fantastic" id="390">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Kree" target="Paibok" id="391">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #3" />
+        </attvalues>
+      </edge>
+      <edge source="Kree" target="Skrulls" id="392">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Kree" target="The Watchers" id="393">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Skrulls" target="The Watchers" id="394">
+        <attvalues>
+          <attvalue for="0" value="Thing: Freakshow (2002) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Absorbing Man" target="Avengers" id="395">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Absorbing Man" target="Captain Marvel (Mar-Vell)" id="396">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Absorbing Man" target="Gargoyle (Isaac Christians)" id="397">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Absorbing Man" target="Immortus" id="398">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Absorbing Man" target="Odin" id="399">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Absorbing Man" target="Surtur" id="400">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Hela" target="Malekith" id="401">
+        <attvalues>
+          <attvalue for="0" value="Thor (1998) #29" />
+        </attvalues>
+      </edge>
+      <edge source="Colossus (Ultimate)" target="Cyclops (Ultimate)" id="402">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Colossus (Ultimate)" target="Iceman (Ultimate)" id="403">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Colossus (Ultimate)" target="Quicksilver (Ultimate)" id="404">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Colossus (Ultimate)" target="Scarlet Witch (Ultimate)" id="405">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Colossus (Ultimate)" target="X-Men (Ultimate)" id="406">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops (Ultimate)" target="Iceman (Ultimate)" id="407">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops (Ultimate)" target="Quicksilver (Ultimate)" id="408">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops (Ultimate)" target="Scarlet Witch (Ultimate)" id="409">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops (Ultimate)" target="X-Men (Ultimate)" id="410">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Iceman (Ultimate)" target="Quicksilver (Ultimate)" id="411">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Iceman (Ultimate)" target="Scarlet Witch (Ultimate)" id="412">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Iceman (Ultimate)" target="X-Men (Ultimate)" id="413">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Quicksilver (Ultimate)" target="Scarlet Witch (Ultimate)" id="414">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Quicksilver (Ultimate)" target="X-Men (Ultimate)" id="415">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Scarlet Witch (Ultimate)" target="X-Men (Ultimate)" id="416">
+        <attvalues>
+          <attvalue for="0" value="ULTIMATE X-MEN 1/2 (2002) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Avengers (Ultimate)" target="Captain America (Ultimate)" id="417">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Avengers (Ultimate)" target="Hawkeye (Ultimate)" id="418">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Avengers (Ultimate)" target="Thor (Ultimate)" id="419">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Avengers (Ultimate)" target="Ultimates" id="420">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America (Ultimate)" target="Hawkeye (Ultimate)" id="421">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America (Ultimate)" target="Thor (Ultimate)" id="422">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Captain America (Ultimate)" target="Ultimates" id="423">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Hawkeye (Ultimate)" target="Thor (Ultimate)" id="424">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Hawkeye (Ultimate)" target="Ultimates" id="425">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Thor (Ultimate)" target="Ultimates" id="426">
+        <attvalues>
+          <attvalue for="0" value="Ultimate Avengers Vs. New Ultimates (2011) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Owl" target="Silvermane" id="427">
+        <attvalues>
+          <attvalue for="0" value="Underworld (2006) #1" />
+        </attvalues>
+      </edge>
+      <edge source="Avengers" target="Captain Marvel (Mar-Vell)" id="428">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Avengers" target="Gargoyle (Isaac Christians)" id="429">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Avengers" target="Immortus" id="430">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Avengers" target="Odin" id="431">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Avengers" target="Surtur" id="432">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Marvel (Mar-Vell)" target="Gargoyle (Isaac Christians)" id="433">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Marvel (Mar-Vell)" target="Immortus" id="434">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Marvel (Mar-Vell)" target="Odin" id="435">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Marvel (Mar-Vell)" target="Surtur" id="436">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Marvel (Mar-Vell)" target="Black Bolt" id="437">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Marvel (Mar-Vell)" target="Medusa" id="438">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Captain Marvel (Mar-Vell)" target="Uatu The Watcher" id="439">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Gargoyle (Isaac Christians)" target="Immortus" id="440">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Gargoyle (Isaac Christians)" target="Odin" id="441">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Gargoyle (Isaac Christians)" target="Surtur" id="442">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Gargoyle (Isaac Christians)" target="Black Bolt" id="443">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Gargoyle (Isaac Christians)" target="Medusa" id="444">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Gargoyle (Isaac Christians)" target="Uatu The Watcher" id="445">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Immortus" target="Odin" id="446">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Immortus" target="Surtur" id="447">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Odin" target="Surtur" id="448">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #4" />
+        </attvalues>
+      </edge>
+      <edge source="Black Bolt" target="Medusa" id="449">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Black Bolt" target="Uatu The Watcher" id="450">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Medusa" target="Uatu The Watcher" id="451">
+        <attvalues>
+          <attvalue for="0" value="Universe X (2000) #5" />
+        </attvalues>
+      </edge>
+      <edge source="Chamber" target="Marrow" id="452">
+        <attvalues>
+          <attvalue for="0" value="Weapon X (2002) #20" />
+        </attvalues>
+      </edge>
+      <edge source="Chamber" target="Weapon X" id="453">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Chamber" target="Agent Zero" id="454">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Marrow" target="Weapon X" id="455">
+        <attvalues>
+          <attvalue for="0" value="Weapon X (2002) #20" />
+        </attvalues>
+      </edge>
+      <edge source="Weapon X" target="Agent Zero" id="456">
+        <attvalues>
+          <attvalue for="0" value="Weapon X: Days of Future Now (2005) #2" />
+        </attvalues>
+      </edge>
+      <edge source="Jubilee" target="Stryfe" id="457">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #35" />
+        </attvalues>
+      </edge>
+      <edge source="Madrox" target="Rictor" id="458">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #214" />
+        </attvalues>
+      </edge>
+      <edge source="Madrox" target="Shatterstar" id="459">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #214" />
+        </attvalues>
+      </edge>
+      <edge source="Madrox" target="Wolfsbane" id="460">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #214" />
+        </attvalues>
+      </edge>
+      <edge source="Madrox" target="X-Factor" id="461">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #214" />
+        </attvalues>
+      </edge>
+      <edge source="Madrox" target="Layla Miller" id="462">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #25" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="Shatterstar" id="463">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="Wolfsbane" id="464">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #214" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="X-Factor" id="465">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #214" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="Banshee (Theresa Rourke)" id="466">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="Boomer" id="467">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="Cable" id="468">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="Cannonball" id="469">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="Domino" id="470">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="Warpath" id="471">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Rictor" target="X-Force" id="472">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Shatterstar" target="Wolfsbane" id="473">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #214" />
+        </attvalues>
+      </edge>
+      <edge source="Shatterstar" target="X-Factor" id="474">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #214" />
+        </attvalues>
+      </edge>
+      <edge source="Shatterstar" target="Banshee (Theresa Rourke)" id="475">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Shatterstar" target="Boomer" id="476">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Shatterstar" target="Cable" id="477">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Shatterstar" target="Cannonball" id="478">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Shatterstar" target="Domino" id="479">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Shatterstar" target="Warpath" id="480">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Shatterstar" target="X-Force" id="481">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Wolfsbane" target="X-Factor" id="482">
+        <attvalues>
+          <attvalue for="0" value="X-Factor (2005) #214" />
+        </attvalues>
+      </edge>
+      <edge source="Cannonball" target="Meltdown" id="483">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #110" />
+        </attvalues>
+      </edge>
+      <edge source="Cannonball" target="Warpath" id="484">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Cannonball" target="X-Force" id="485">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Cannonball" target="Domino" id="486">
+        <attvalues>
+          <attvalue for="0" value="X-Force (1991) #40" />
+        </attvalues>
+      </edge>
+      <edge source="Cannonball" target="Boom Boom" id="487">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #112" />
         </attvalues>
       </edge>
-      <edge source="Cannonball" target="Banshee (Theresa Rourke)" id="305">
+      <edge source="Cannonball" target="Banshee (Theresa Rourke)" id="488">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Cannonball" target="Boomer" id="306">
+      <edge source="Cannonball" target="Boomer" id="489">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Cannonball" target="Cable" id="307">
+      <edge source="Cannonball" target="Cable" id="490">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Meltdown" target="Warpath" id="308">
+      <edge source="Meltdown" target="Warpath" id="491">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #110" />
         </attvalues>
       </edge>
-      <edge source="Meltdown" target="X-Force" id="309">
+      <edge source="Meltdown" target="X-Force" id="492">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #110" />
         </attvalues>
       </edge>
-      <edge source="Meltdown" target="Domino" id="310">
+      <edge source="Meltdown" target="Domino" id="493">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #110" />
         </attvalues>
       </edge>
-      <edge source="Warpath" target="X-Force" id="311">
+      <edge source="Warpath" target="X-Force" id="494">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Warpath" target="Domino" id="312">
+      <edge source="Warpath" target="Domino" id="495">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Warpath" target="Banshee (Theresa Rourke)" id="313">
+      <edge source="Warpath" target="Banshee (Theresa Rourke)" id="496">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Warpath" target="Boomer" id="314">
+      <edge source="Warpath" target="Boomer" id="497">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Warpath" target="Cable" id="315">
+      <edge source="Warpath" target="Cable" id="498">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Warpath" target="Crule" id="316">
+      <edge source="Warpath" target="Crule" id="499">
         <attvalues>
           <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #122" />
         </attvalues>
       </edge>
-      <edge source="Warpath" target="Thunderbird (John Proudstar)" id="317">
+      <edge source="Warpath" target="Thunderbird (John Proudstar)" id="500">
         <attvalues>
           <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #122" />
         </attvalues>
       </edge>
-      <edge source="X-Force" target="Domino" id="318">
+      <edge source="X-Force" target="Domino" id="501">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="X-Force" target="Boom Boom" id="319">
+      <edge source="X-Force" target="Boom Boom" id="502">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #112" />
         </attvalues>
       </edge>
-      <edge source="X-Force" target="Banshee (Theresa Rourke)" id="320">
+      <edge source="X-Force" target="Banshee (Theresa Rourke)" id="503">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="X-Force" target="Boomer" id="321">
+      <edge source="X-Force" target="Boomer" id="504">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="X-Force" target="Cable" id="505">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="X-Force" target="Cable" id="322">
+      <edge source="X-Force" target="Archangel" id="506">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="X-Force" target="Banshee" id="507">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="X-Force" target="Psylocke" id="508">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="X-Force" target="Spiral (Rita Wayword)" id="509">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Domino" target="Banshee (Theresa Rourke)" id="510">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Domino" target="Banshee (Theresa Rourke)" id="323">
+      <edge source="Domino" target="Boomer" id="511">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Domino" target="Boomer" id="324">
+      <edge source="Domino" target="Cable" id="512">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Domino" target="Cable" id="325">
+      <edge source="Banshee (Theresa Rourke)" target="Boomer" id="513">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Banshee (Theresa Rourke)" target="Boomer" id="326">
+      <edge source="Banshee (Theresa Rourke)" target="Cable" id="514">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Banshee (Theresa Rourke)" target="Cable" id="327">
+      <edge source="Boomer" target="Cable" id="515">
         <attvalues>
           <attvalue for="0" value="X-Force (1991) #40" />
         </attvalues>
       </edge>
-      <edge source="Boomer" target="Cable" id="328">
+      <edge source="Boomer" target="Archangel" id="516">
         <attvalues>
-          <attvalue for="0" value="X-Force (1991) #40" />
+          <attvalue for="0" value="X-Men (1991) #32" />
         </attvalues>
       </edge>
-      <edge source="Cable" target="Agent Brand" id="329">
+      <edge source="Boomer" target="Banshee" id="517">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Boomer" target="Psylocke" id="518">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Boomer" target="Spiral (Rita Wayword)" id="519">
+        <attvalues>
+          <attvalue for="0" value="X-Men (1991) #32" />
+        </attvalues>
+      </edge>
+      <edge source="Cable" target="Agent Brand" id="520">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Cable" target="Storm" id="330">
+      <edge source="Cable" target="Storm" id="521">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Cable" target="Sunspot" id="331">
+      <edge source="Cable" target="Sunspot" id="522">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Cable" target="Vulcan (Gabriel Summers)" id="332">
+      <edge source="Cable" target="Vulcan (Gabriel Summers)" id="523">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Cable" target="Jean Grey" id="333">
+      <edge source="Cable" target="Jean Grey" id="524">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
         </attvalues>
       </edge>
-      <edge source="Cable" target="Ozymandias" id="334">
+      <edge source="Cable" target="Ozymandias" id="525">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #2" />
         </attvalues>
       </edge>
-      <edge source="Cable" target="Cable" id="335">
+      <edge source="Cable" target="Cable" id="526">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
         </attvalues>
       </edge>
-      <edge source="Cable" target="Caliban" id="336">
+      <edge source="Cable" target="Caliban" id="527">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #3" />
         </attvalues>
       </edge>
-      <edge source="Cable" target="Apocalypse" id="337">
+      <edge source="Cable" target="Apocalypse" id="528">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
         </attvalues>
       </edge>
-      <edge source="Armor (Hisako Ichiki)" target="Avalanche" id="338">
+      <edge source="Armor (Hisako Ichiki)" target="Avalanche" id="529">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Armor (Hisako Ichiki)" target="Bling!" id="339">
+      <edge source="Armor (Hisako Ichiki)" target="Bling!" id="530">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Armor (Hisako Ichiki)" target="Firestar" id="340">
+      <edge source="Armor (Hisako Ichiki)" target="Firestar" id="531">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Armor (Hisako Ichiki)" target="Hydra" id="341">
+      <edge source="Armor (Hisako Ichiki)" target="Hydra" id="532">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Armor (Hisako Ichiki)" target="Micromax" id="342">
+      <edge source="Armor (Hisako Ichiki)" target="Micromax" id="533">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Armor (Hisako Ichiki)" target="Penance (Monet St. Croix)" id="343">
+      <edge source="Armor (Hisako Ichiki)" target="Penance (Monet St. Croix)" id="534">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Armor (Hisako Ichiki)" target="Surge" id="344">
+      <edge source="Avalanche" target="Bling!" id="535">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Avalanche" target="Bling!" id="345">
+      <edge source="Avalanche" target="Firestar" id="536">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Avalanche" target="Firestar" id="346">
+      <edge source="Avalanche" target="Hydra" id="537">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Avalanche" target="Hydra" id="347">
+      <edge source="Avalanche" target="Micromax" id="538">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Avalanche" target="Micromax" id="348">
+      <edge source="Avalanche" target="Penance (Monet St. Croix)" id="539">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Avalanche" target="Penance (Monet St. Croix)" id="349">
+      <edge source="Bling!" target="Firestar" id="540">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Avalanche" target="Surge" id="350">
+      <edge source="Bling!" target="Hydra" id="541">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Bling!" target="Firestar" id="351">
+      <edge source="Bling!" target="Micromax" id="542">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Bling!" target="Hydra" id="352">
+      <edge source="Bling!" target="Penance (Monet St. Croix)" id="543">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Bling!" target="Micromax" id="353">
+      <edge source="Firestar" target="Hydra" id="544">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Bling!" target="Penance (Monet St. Croix)" id="354">
+      <edge source="Firestar" target="Micromax" id="545">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Bling!" target="Surge" id="355">
+      <edge source="Firestar" target="Penance (Monet St. Croix)" id="546">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Firestar" target="Hydra" id="356">
+      <edge source="Hydra" target="Micromax" id="547">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Firestar" target="Micromax" id="357">
+      <edge source="Hydra" target="Penance (Monet St. Croix)" id="548">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Firestar" target="Penance (Monet St. Croix)" id="358">
+      <edge source="Micromax" target="Penance (Monet St. Croix)" id="549">
         <attvalues>
           <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Firestar" target="Surge" id="359">
+      <edge source="Archangel" target="Psylocke" id="550">
         <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+          <attvalue for="0" value="X-Men (1991) #32" />
         </attvalues>
       </edge>
-      <edge source="Hydra" target="Micromax" id="360">
+      <edge source="Archangel" target="Spiral (Rita Wayword)" id="551">
         <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+          <attvalue for="0" value="X-Men (1991) #32" />
         </attvalues>
       </edge>
-      <edge source="Hydra" target="Penance (Monet St. Croix)" id="361">
+      <edge source="Archangel" target="Banshee" id="552">
         <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+          <attvalue for="0" value="X-Men (1991) #32" />
         </attvalues>
       </edge>
-      <edge source="Hydra" target="Surge" id="362">
+      <edge source="Psylocke" target="Spiral (Rita Wayword)" id="553">
         <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+          <attvalue for="0" value="X-Men (1991) #32" />
         </attvalues>
       </edge>
-      <edge source="Micromax" target="Penance (Monet St. Croix)" id="363">
+      <edge source="Psylocke" target="Banshee" id="554">
         <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+          <attvalue for="0" value="X-Men (1991) #32" />
         </attvalues>
       </edge>
-      <edge source="Micromax" target="Surge" id="364">
+      <edge source="Psylocke" target="Riptide" id="555">
         <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+          <attvalue for="0" value="X-Men (1991) #34" />
         </attvalues>
       </edge>
-      <edge source="Penance (Monet St. Croix)" target="Surge" id="365">
+      <edge source="Spiral (Rita Wayword)" target="Banshee" id="556">
         <attvalues>
-          <attvalue for="0" value="X-MEN: HELLFIRE GALA CONFESSIONALS INFINITY COMIC 1 (2022) #1" />
+          <attvalue for="0" value="X-Men (1991) #32" />
         </attvalues>
       </edge>
-      <edge source="Gambit" target="Mimic" id="366">
+      <edge source="Mimic" target="Weapon Omega" id="557">
         <attvalues>
           <attvalue for="0" value="X-Men Legacy (2008) #264" />
         </attvalues>
       </edge>
-      <edge source="Gambit" target="Rogue" id="367">
-        <attvalues>
-          <attvalue for="0" value="X-Men Legacy (2008) #264" />
-        </attvalues>
-      </edge>
-      <edge source="Gambit" target="Weapon Omega" id="368">
-        <attvalues>
-          <attvalue for="0" value="X-Men Legacy (2008) #264" />
-        </attvalues>
-      </edge>
-      <edge source="Mimic" target="Rogue" id="369">
-        <attvalues>
-          <attvalue for="0" value="X-Men Legacy (2008) #264" />
-        </attvalues>
-      </edge>
-      <edge source="Mimic" target="Weapon Omega" id="370">
-        <attvalues>
-          <attvalue for="0" value="X-Men Legacy (2008) #264" />
-        </attvalues>
-      </edge>
-      <edge source="Rogue" target="Weapon Omega" id="371">
-        <attvalues>
-          <attvalue for="0" value="X-Men Legacy (2008) #264" />
-        </attvalues>
-      </edge>
-      <edge source="Agent Brand" target="Storm" id="372">
+      <edge source="Agent Brand" target="Storm" id="558">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Agent Brand" target="Sunspot" id="373">
+      <edge source="Agent Brand" target="Sunspot" id="559">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Agent Brand" target="Vulcan (Gabriel Summers)" id="374">
+      <edge source="Agent Brand" target="Vulcan (Gabriel Summers)" id="560">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Storm" target="Sunspot" id="375">
+      <edge source="Storm" target="Sunspot" id="561">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Storm" target="Vulcan (Gabriel Summers)" id="376">
+      <edge source="Storm" target="Vulcan (Gabriel Summers)" id="562">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Sunspot" target="Vulcan (Gabriel Summers)" id="377">
+      <edge source="Sunspot" target="Vulcan (Gabriel Summers)" id="563">
         <attvalues>
           <attvalue for="0" value="X-Men Red (2022) #1" />
         </attvalues>
       </edge>
-      <edge source="Elixir" target="Prodigy (David Alleyne)" id="378">
+      <edge source="Elixir" target="Prodigy (David Alleyne)" id="564">
         <attvalues>
           <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #100" />
         </attvalues>
       </edge>
-      <edge source="Elixir" target="Speed" id="379">
+      <edge source="Elixir" target="Speed" id="565">
         <attvalues>
           <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #100" />
         </attvalues>
       </edge>
-      <edge source="Prodigy (David Alleyne)" target="Speed" id="380">
+      <edge source="Prodigy (David Alleyne)" target="Speed" id="566">
         <attvalues>
           <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #100" />
         </attvalues>
       </edge>
-      <edge source="Crule" target="Thunderbird (John Proudstar)" id="381">
+      <edge source="Crule" target="Thunderbird (John Proudstar)" id="567">
         <attvalues>
           <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #122" />
         </attvalues>
       </edge>
-      <edge source="Dani Moonstar" target="Mesmero" id="382">
+      <edge source="Dani Moonstar" target="Mesmero" id="568">
         <attvalues>
           <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #99" />
         </attvalues>
       </edge>
-      <edge source="Dani Moonstar" target="Polaris" id="383">
+      <edge source="Dani Moonstar" target="Polaris" id="569">
         <attvalues>
           <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #99" />
         </attvalues>
       </edge>
-      <edge source="Mesmero" target="Polaris" id="384">
+      <edge source="Mesmero" target="Polaris" id="570">
         <attvalues>
           <attvalue for="0" value="X-Men Unlimited Infinity Comic (2021) #99" />
         </attvalues>
       </edge>
-      <edge source="Jean Grey" target="Ozymandias" id="385">
+      <edge source="Jean Grey" target="Ozymandias" id="571">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #2" />
         </attvalues>
       </edge>
-      <edge source="Jean Grey" target="Jean Grey" id="386">
+      <edge source="Jean Grey" target="Jean Grey" id="572">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
         </attvalues>
       </edge>
-      <edge source="Jean Grey" target="Caliban" id="387">
+      <edge source="Jean Grey" target="Caliban" id="573">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #3" />
         </attvalues>
       </edge>
-      <edge source="Jean Grey" target="Apocalypse" id="388">
+      <edge source="Jean Grey" target="Apocalypse" id="574">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
         </attvalues>
       </edge>
-      <edge source="Ozymandias" target="Ozymandias" id="389">
+      <edge source="Ozymandias" target="Ozymandias" id="575">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #2" />
         </attvalues>
       </edge>
-      <edge source="Caliban" target="Caliban" id="390">
+      <edge source="Caliban" target="Caliban" id="576">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #3" />
         </attvalues>
       </edge>
-      <edge source="Apocalypse" target="Apocalypse" id="391">
+      <edge source="Apocalypse" target="Apocalypse" id="577">
         <attvalues>
           <attvalue for="0" value="X-Men: The Search for Cyclops (2000) #4" />
         </attvalues>
       </edge>
-      <edge source="X-Statix" target="X-Statix" id="392">
+      <edge source="X-Statix" target="X-Statix" id="578">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #4" />
         </attvalues>
       </edge>
-      <edge source="X-Statix" target="Dead Girl" id="393">
+      <edge source="X-Statix" target="Dead Girl" id="579">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
         </attvalues>
       </edge>
-      <edge source="X-Statix" target="Doctor Strange" id="394">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
-        </attvalues>
-      </edge>
-      <edge source="X-Statix" target="Gwen Stacy" id="395">
+      <edge source="X-Statix" target="Gwen Stacy" id="580">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
         </attvalues>
       </edge>
-      <edge source="X-Statix" target="Norman Osborn" id="396">
+      <edge source="X-Statix" target="Union Jack (Joseph Chapman)" id="581">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
         </attvalues>
       </edge>
-      <edge source="X-Statix" target="Union Jack (Joseph Chapman)" id="397">
+      <edge source="Dead Girl" target="Gwen Stacy" id="582">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
         </attvalues>
       </edge>
-      <edge source="Dead Girl" target="Doctor Strange" id="398">
+      <edge source="Dead Girl" target="Union Jack (Joseph Chapman)" id="583">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
         </attvalues>
       </edge>
-      <edge source="Dead Girl" target="Gwen Stacy" id="399">
+      <edge source="Dead Girl" target="Dead Girl" id="584">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
         </attvalues>
       </edge>
-      <edge source="Dead Girl" target="Norman Osborn" id="400">
+      <edge source="Gwen Stacy" target="Union Jack (Joseph Chapman)" id="585">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
         </attvalues>
       </edge>
-      <edge source="Dead Girl" target="Union Jack (Joseph Chapman)" id="401">
+      <edge source="Gwen Stacy" target="Gwen Stacy" id="586">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
         </attvalues>
       </edge>
-      <edge source="Dead Girl" target="Dead Girl" id="402">
+      <edge source="Union Jack (Joseph Chapman)" target="Union Jack (Joseph Chapman)" id="587">
         <attvalues>
           <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
         </attvalues>
       </edge>
-      <edge source="Doctor Strange" target="Gwen Stacy" id="403">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Doctor Strange" target="Norman Osborn" id="404">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Doctor Strange" target="Union Jack (Joseph Chapman)" id="405">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Doctor Strange" target="Doctor Strange" id="406">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #2" />
-        </attvalues>
-      </edge>
-      <edge source="Gwen Stacy" target="Norman Osborn" id="407">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Gwen Stacy" target="Union Jack (Joseph Chapman)" id="408">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Gwen Stacy" target="Gwen Stacy" id="409">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Norman Osborn" target="Union Jack (Joseph Chapman)" id="410">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Norman Osborn" target="Norman Osborn" id="411">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Union Jack (Joseph Chapman)" target="Union Jack (Joseph Chapman)" id="412">
-        <attvalues>
-          <attvalue for="0" value="X-Statix Presents: Dead Girl (2006) #1" />
-        </attvalues>
-      </edge>
-      <edge source="Marvel Zombies" target="Marvel Zombies" id="413">
+      <edge source="Marvel Zombies" target="Marvel Zombies" id="588">
         <attvalues>
           <attvalue for="0" value="Zombies Assemble (2017) #2 (Horn Variant)" />
         </attvalues>
